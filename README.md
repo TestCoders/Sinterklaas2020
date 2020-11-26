@@ -19,3 +19,18 @@ Door de coronamaatregelen heeft ook de Sint een zwaar jaar. Hij heeft wat Inkoop
 <h2>Opdracht 3</h2>
   <ul>Maak nu logica die checkt bij welke aanbieder het cadeau het goedkoopst aangeboden wordt. Vervolgens wordt er naar deze aanbieder de POST request verzonden</ul>
   <ul>Toon dit aan met integratietests (wel nog steeds met gemockte resposes)</ul>
+
+
+<h2>Aanieders</h2>
+Bollie.com    https://www.bollie.com/cadeau
+CoolBère.com  https://www.coolbere.com/cadeau
+Aliblabla.com https://www.aliblabla.com/cadeau
+
+<h2>Model GET resposne</h2>
+{
+   "product":{
+      "Id":5,
+      "Price":4.89,
+      "Name":"Playdebiel"
+   }
+}
