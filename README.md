@@ -22,9 +22,9 @@ Door de coronamaatregelen heeft ook de Sint een zwaar jaar. Hij heeft wat Inkoop
 
 
 <h2>Aanieders</h2>
-Bollie.com    https://www.bollie.com/cadeau    <br>
-CoolBère.com  https://www.coolbere.com/cadeau  <br>
-Aliblabla.com https://www.aliblabla.com/cadeau  <br>
+Bollie.com    https://www.bollie.com/cadeau/{id}    <br>
+CoolBère.com  https://www.coolbere.com/cadeau/{id}  <br>
+Aliblabla.com https://www.aliblabla.com/cadeau/{id}  <br>
 
 <h2>Model GET resposne voor Bollie en CoolBère. Aliblabla geeft dit in XML!</h2>
 {
