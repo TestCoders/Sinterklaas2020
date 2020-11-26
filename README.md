@@ -5,7 +5,8 @@ Ook moet hij nog heel veel cadeau's opknotten<br>
 Daarom is het tijd dat er wat Pieten moeten oprotten<br>
 
 
-Door de coronamaatregelen heeft ook de Sint een zwaar jaar. Hij heeft wat Inkoop Pieten moeten laten gaan... Om flink wat kosten te besparen, heeft hij Computer Piet de opdracht gegeven om een stukje van de cadeau-inkoop te automatiseren. De opdracht is dat er connectors gebouwd gaan worden. Deze connectors checken bij de leveranciers wie een cadeau het goedkoopst aanbiedt. Vervolgens wordt er bij de goedkoopste aanbieder een verzoek gedaan om een cadeau aan te schaffen
+Door de coronamaatregelen heeft ook de Sint een zwaar jaar. Hij heeft wat Inkoop Pieten moeten laten gaan... Om flink wat kosten te besparen, heeft hij Computer Piet de opdracht gegeven om een stukje van de cadeau-inkoop te automatiseren. De opdracht is dat er connectors gebouwd gaan worden. Deze connectors checken bij de leveranciers wie een cadeau het goedkoopst aanbiedt. Vervolgens wordt er bij de goedkoopste aanbieder een verzoek gedaan om een cadeau aan te schaffen<br>
+Clone de repo, maak een Pull Request, maar NIET MERGEN
 
 
 <h2>Opdracht 1</h2>
