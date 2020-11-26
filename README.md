@@ -26,7 +26,7 @@ Bollie.com    https://www.bollie.com/cadeau/{id}    <br>
 CoolBère.com  https://www.coolbere.com/cadeau/{id}  <br>
 Aliblabla.com https://www.aliblabla.com/cadeau/{id}  <br>
 
-<h2>Model GET resposne voor Bollie en CoolBère. Aliblabla geeft dit in XML!</h2>
+<h2>Model GET response voor Bollie en CoolBère. Aliblabla geeft dit in XML!</h2>
 {
    "product":{
       "Id":5,
