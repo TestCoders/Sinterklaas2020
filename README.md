@@ -9,3 +9,13 @@ Door de coronamaatregelen heeft ook de Sint een zwaar jaar. Hij heeft wat Inkoop
 
 
 <h2>Opdracht 1</h2>
+<li>
+  <ul>Zet 3 connectors op naar de onderstaande API's</ul>
+  <ul>Zet een unittestproject op</ul>
+</li>
+
+<h2>Opdracht 2</h2>
+<li>
+  <ul>Zorg ervoor dat je connectors een POST en een GET request kunnen uitvoeren. Onderstaand het model hoe de responses van de bedrijven eruit zien</ul>
+  <ul>Maak unit tests om de connectors te gebruiken. <b>Mock de responses!</b></ul>
+</li>
