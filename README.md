@@ -36,11 +36,11 @@ Aliblabla.com https://www.aliblabla.com/cadeau  <br>
 }
 
 <h2>Model GET reposnse voor Aliblabla</h2>
-<?xml version="1.0" encoding="UTF-8"?>
+"<?xml version="1.0" encoding="UTF-8"?>
 <root>
    <product>
       <Id>5</Id>
       <Name>Playdebiel</Name>
       <Price>4.89</Price>
    </product>
-</root>
+</root>"
