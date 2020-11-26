@@ -15,3 +15,7 @@ Door de coronamaatregelen heeft ook de Sint een zwaar jaar. Hij heeft wat Inkoop
 <h2>Opdracht 2</h2>
   <ul>Zorg ervoor dat je connectors een POST en een GET request kunnen uitvoeren. Onderstaand het model hoe de responses van de bedrijven eruit zien</ul>
   <ul>Maak unit tests om de connectors te gebruiken. <b>Mock de responses!</b></ul>
+
+<h2>Opdracht 3</h2>
+  <ul>Maak nu logica die checkt bij welke aanbieder het cadeau het goedkoopst aangeboden wordt. Vervolgens wordt er naar deze aanbieder de POST request verzonden</ul>
+  <ul>Toon dit aan met integratietests (wel nog steeds met gemockte resposes)</ul>
