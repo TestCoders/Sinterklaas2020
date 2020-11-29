@@ -5,7 +5,7 @@ Hij moet regelmatig zijn kredietlimiet checken<br>
 Daarom is het tijd dat er wat Pieten vertrekken<br>
 
 
-Door de coronamaatregelen heeft ook de Sint een zwaar jaar. Hij heeft wat Inkoop Pieten moeten laten gaan... Om flink wat kosten te besparen, heeft hij Computer Piet de opdracht gegeven om een stukje van de cadeau-inkoop te automatiseren. De opdracht is dat er connectors gebouwd gaan worden. Deze connectors checken bij de leveranciers wie een cadeau het goedkoopst aanbiedt. Vervolgens wordt er bij de goedkoopste aanbieder een verzoek gedaan om een cadeau aan te schaffen<br>
+Door de coronamaatregelen heeft ook de Sint een zwaar jaar. Hij heeft wat Inkoop Pieten moeten laten gaan... Om flink wat kosten te besparen, heeft hij Computer Piet de opdracht gegeven om een stukje van de cadeau-inkoop te automatiseren. De opdracht is dat er connectors gebouwd gaan worden. Deze connectors checken bij de leveranciers wie een cadeau het goedkoopst aanbiedt. Vervolgens wordt er bij de goedkoopste aanbieder een verzoek gedaan om een cadeau aan te schaffen. Alle responses die de connectors teruggeven, moeten worden gemockt!<br>
 Clone de repo, maak een Pull Request, maar NIET MERGEN
 
 
