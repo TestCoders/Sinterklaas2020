@@ -36,4 +36,4 @@ Aliblabla.com https://www.aliblabla.com/cadeau/{id}  <br>
    }
 }
 
-<h2>Optioneel: Aliblabla geeft nu het bericht terug in XML!</h2>
+<h3>Optioneel: Aliblabla geeft nu het bericht terug in XML!</h3>
