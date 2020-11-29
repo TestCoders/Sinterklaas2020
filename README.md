@@ -1,8 +1,8 @@
 # Sinterklaas2020
 Door corona heeft de Sint financieel een zwaar jaar <br>
 Echter wil hij niet eindigen als een bedelaar<br>
-Ook moet hij nog heel veel cadeau's opknotten<br>
-Daarom is het tijd dat er wat Pieten moeten oprotten<br>
+Hij moet regelmatig zijn kredietlimiet checken<br>
+Daarom is het tijd dat er wat Pieten vertrekken<br>
 
 
 Door de coronamaatregelen heeft ook de Sint een zwaar jaar. Hij heeft wat Inkoop Pieten moeten laten gaan... Om flink wat kosten te besparen, heeft hij Computer Piet de opdracht gegeven om een stukje van de cadeau-inkoop te automatiseren. De opdracht is dat er connectors gebouwd gaan worden. Deze connectors checken bij de leveranciers wie een cadeau het goedkoopst aanbiedt. Vervolgens wordt er bij de goedkoopste aanbieder een verzoek gedaan om een cadeau aan te schaffen<br>
@@ -22,12 +22,12 @@ Clone de repo, maak een Pull Request, maar NIET MERGEN
   <ul>Toon dit aan met integratietests (wel nog steeds met gemockte resposes)</ul>
 
 
-<h2>Aanieders</h2>
+<h2>Aanbieders</h2>
 Bollie.com    https://www.bollie.com/cadeau/{id}    <br>
 CoolBère.com  https://www.coolbere.com/cadeau/{id}  <br>
 Aliblabla.com https://www.aliblabla.com/cadeau/{id}  <br>
 
-<h2>Model GET response voor Bollie en CoolBère. Aliblabla geeft dit in XML!</h2>
+<h2>Model GET response voor Bollie en CoolBère.</h2>
 {
    "product":{
       "Id":5,
@@ -35,3 +35,5 @@ Aliblabla.com https://www.aliblabla.com/cadeau/{id}  <br>
       "Name":"Playdebiel"
    }
 }
+
+<h2>Optioneel: Aliblabla geeft nu het bericht terug in XML!</h2>
