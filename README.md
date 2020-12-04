@@ -10,6 +10,10 @@ Om de images opnieuw te bouwen, draai
 docker-compose up --build
 ```
 
+Om een product te kopen vuur je een POST request af naar `:3000/purchase{id}` met een body als: `{"quantity": 1}`.
+
+Bij een onbekend product geeft hij momenteel nog een status 500 terug, moet ik nog aanpassen.
+
 De volgende services zijn beschikbaar:
 - sintapi `:3000`
 - bollie `:3001`
