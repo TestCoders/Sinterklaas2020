@@ -1,0 +1,3 @@
+<ResponseError error="400">
+    <description>incorrect product id provided</description>
+</ResponseError>

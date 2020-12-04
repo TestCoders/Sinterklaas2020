@@ -1,0 +1,3 @@
+<ResponseError error="404">
+    <description>product not found</description>
+</ResponseError>

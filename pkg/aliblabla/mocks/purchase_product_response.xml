@@ -1,0 +1,9 @@
+<ResponsePurchase>
+    <status>successfully purchased</status>
+    <quantity>1</quantity>
+    <product>
+        <ID>1</ID>
+        <Name>c0ffee</Name>
+        <Price>13.37</Price>
+    </product>
+</ResponsePurchase>

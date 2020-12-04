@@ -1,0 +1,9 @@
+{
+  "status": "successfully purchased",
+  "quantity": 1,
+  "product": {
+    "ID": 1,
+    "Name": "c0ffee",
+    "Price": 13.37
+  }
+}

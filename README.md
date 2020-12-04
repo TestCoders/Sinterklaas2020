@@ -1,4 +1,22 @@
 # Sinterklaas2020
+## Run
+Start de services
+```
+docker-compose up
+```
+
+Om de images opnieuw te bouwen, draai
+```
+docker-compose up --build
+```
+
+De volgende services zijn beschikbaar:
+- sintapi `:3000`
+- bollie `:3001`
+- coolbere `:3002`
+- aliblabla `:3003`
+
+## Opdracht
 Door corona heeft de Sint financieel een zwaar jaar <br>
 Echter wil hij niet eindigen als een bedelaar<br>
 Hij moet regelmatig zijn kredietlimiet checken<br>

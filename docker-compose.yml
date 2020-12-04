@@ -1,0 +1,27 @@
+version: "3.8"
+services:
+  mockserver:
+    container_name: mockserver
+    build:
+      context: .
+      dockerfile: mockserver.Dockerfile
+    networks:
+      - sint
+    ports:
+      - "3001:3001"
+      - "3002:3002"
+      - "3003:3003"
+  sintapi:
+    container_name: sintapi
+    depends_on:
+      - mockserver
+    build:
+      context: .
+      dockerfile: sintapi.Dockerfile
+    networks:
+      - sint
+    ports:
+      - "3000:3000"
+
+networks:
+  sint:
