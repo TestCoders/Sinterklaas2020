@@ -1,3 +1,10 @@
+## Uitwerking - Ewald
+Voor deze opdracht heb ik gekozen om geen mockservice te bouwen, maar zo geisoleerd mogelijk te testen door alleen objecten en functies te mocken vanuit de tests zelf. De applicatie code is daarom opzichzelf dan ook niet uitvoerbaar (zonder errors), omdat de services die door de connector worden benaderd niet werkelijk (of hardcoded) bestaan. 
+
+De unittests (`test_connector.py`) en integratietests (`test_main.py`) tonen aan dat de applicatie code wel werkt ondanks dat er geen werkelijke (mock)service(s) aan gekoppeld zijn via de connector. 
+
+
+
 # Sinterklaas2020
 Door corona heeft de Sint financieel een zwaar jaar <br>
 Echter wil hij niet eindigen als een bedelaar<br>
