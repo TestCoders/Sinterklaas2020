@@ -1,9 +1,12 @@
 ## Uitwerking - Ewald
-Voor deze opdracht heb ik gekozen om geen mockservice te bouwen, maar zo geisoleerd mogelijk te testen door alleen objecten en functies te mocken vanuit de tests zelf. De applicatie code is daarom opzichzelf dan ook niet uitvoerbaar (zonder errors), omdat de services die door de connector worden benaderd niet werkelijk (of hardcoded) bestaan. 
+Voor deze opdracht heb ik gekozen om geen mockservice/endpoint te bouwen, maar zo geisoleerd mogelijk te testen door alleen objecten en functies te mocken vanuit de tests zelf. De applicatie code zelf is daarom op ook niet (zomaar) uitvoerbaar zonder errors, omdat de services die door de connector worden benaderd niet werkelijk (of hardcoded) bestaan en/of zijn gekoppeld in de applicatie. 
 
 De unittests (`test_connector.py`) en integratietests (`test_main.py`) tonen aan dat de applicatie code wel werkt ondanks dat er geen werkelijke (mock)service(s) aan gekoppeld zijn via de connector. 
 
+Run de tests via `python tests/test_connector.py` en `python tests/test_main.py`
 
+### Technische toelichting
+Deze tests zijn gemaakt met de python standard library 'unittest'. Voor de unittests heb ik gekozen om niet 1 testcase te maken maar een testsuite te initialiseren en daar telkens dezelfde testcase aan toe te voegen met een andere input paramter. Op deze manier hoef je niet herhalende code over meerdere tests in dezelfde testcase uit te smeren, maar houd je gewoon 1 testcase met verschillende inputs.
 
 # Sinterklaas2020
 Door corona heeft de Sint financieel een zwaar jaar <br>

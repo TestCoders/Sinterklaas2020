@@ -61,6 +61,7 @@ class ConnectorTest(TestBase):
 
 if __name__ == '__main__':
     suite = unittest.TestSuite()
+    # This testcase wil get executed multiple times for multiple inputs
     for vendor in ['bollie', 'aliblabla', 'coolbere']:
         suite.addTest(TestBase.parametrize(ConnectorTest, param=vendor))
     unittest.TextTestRunner(verbosity=2).run(suite)
